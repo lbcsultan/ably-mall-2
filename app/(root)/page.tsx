@@ -1,4 +1,4 @@
-import ProductList from '@/components/ui/shared/product/product-list'
+import ProductList from '@/components/shared/product/product-list'
 import { getLatestProducts } from '@/lib/actions/product.actions'
 import { APP_DESCRIPTION, APP_NAME } from '@/lib/constants'
 import { Metadata } from 'next'
